@@ -1,0 +1,281 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#top{
+	height:143px;
+	background-color:#000;
+}
+.top-in{
+	width:1146px;
+	height:143px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.logo{
+	width:449px;
+	height:92px;
+	margin-top:25px;
+	margin-left:76px;
+	float:left;
+}
+.nav{
+	width:497px;
+	height:60px;
+	float:left;
+	margin-top:45px;
+	margin-left:70px;
+}
+.nav ul li{
+	list-style:none;
+	float:left;
+	line-height:60px;
+	font-size:15px;
+	padding-right:28px;
+}
+.nav ul li a{
+	text-decoration:none;
+	color:#7f7f7f;
+	font-family:Arial, Helvetica, sans-serif
+}
+.nav ul li a:hover{
+	color:#f00;
+}
+#banner{
+	height:348px;
+	background-image:url(../images/dfer_03.jpg);
+}
+.banner-in{
+	width:1146px;
+	height:348px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.banner-left{
+	width:656px;
+	height:270px;
+	float:left;
+	margin:18px 0px 0px 43px;
+}
+.banner-left h2{
+	padding-top:45px;
+	padding-bottom:22px;
+	padding-left:62px;
+	font-family:Georgia, sans-serif;
+	color:#fff;
+}
+.banner-left p{
+	line-height:25px;
+	color:#7f7f7f;
+	margin-left:62px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.banner-left p a{
+	color:#f00;
+}
+.banner-left a img{
+	margin-top:26px;
+	margin-left:62px;
+}
+.banner-right{
+	width:411px;
+	height:323px;
+	float:left;
+	margin-left:36px;
+}
+.banner-right img{
+	position:relative;
+	position:absolute;
+	top:114px;
+	right:180px;
+}
+#main{
+	height:896px;
+	background-image:url(../images/4fbdf_09.jpg);
+}
+.main-in{
+	width:1146px;
+	height:898px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.main-pic{
+	width:978px;
+	height:180px;
+	margin-top:40px;
+	margin-left:105px;
+}
+.main-pic img{
+	padding-right:10px;
+}
+.main-bottom{
+	width:943px;
+	height:636px;
+	margin:0 auto;
+	margin-top:40px;
+}
+.bottom-left{
+	width:624px;
+	height:636px;
+	float:left;
+}
+.bottom-right{
+	width:303px;
+	height:632px;
+	float:right;
+	margin-left:1px;
+}
+.bottom-left .box1{
+	width:619px;
+	height:314px;
+	margin-left:6px;
+	border-bottom:1px dotted #3c3d3d;
+}
+.bottom-left .box1 h1{
+	color:#fff;
+	margin-left:2px;
+}
+.bottom-left .box1 p{
+	color:#797979;
+	font-size:14px;
+	line-height:22px;
+	padding-top:27px;
+	padding-left:80px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.bottom-left p span{
+	color:#fff;
+}
+.bottom-left a img{
+	padding-top:26px;
+	padding-left:80px;
+}
+#pic1{
+	display:block;
+	position:relative;
+	top:-230px;
+	left:0px;
+
+}
+.bottom-left .box2{
+	width:619px;
+	height:290px;
+	margin-top:30px;
+	margin-left:6px;
+}
+.bottom-left .box2 p{
+	color:#797979;
+	font-size:14px;
+	line-height:25px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.box2 img{
+	float:left;
+}
+.smallBox{
+	width:298px;
+	height:172px;
+	float:left;
+}
+.pic3{
+	margin-left:20px;
+}
+.smallBox{
+	margin-left:20px;
+}
+.our{
+	width:300px;
+	height:48px;
+	background-color:#101111;
+}
+.our h1{
+	margin-left:22px;
+	color:#fff;
+	line-height:48px;
+}
+.sub-list li{
+	margin-top:14px;
+	margin-left:20px;
+	list-style:none;
+	list-style-image:url(../images/sv_13_13.jpg);
+	list-style-position:inside;
+	width:279px;
+	color:#fff;
+	height:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	border-bottom:1px dotted #3c3d3d;
+}
+#last{
+	border:0;
+}
+.Troop{
+	margin-top:40px;
+	width:300px;
+	height:232px;
+	background-color:#0e0e0e;
+}
+.Troop h2{
+	padding:20px 0px 15px 20px;
+	color:#b9b9b9;
+}
+.Troop img{
+	padding-left:20px;
+	padding-bottom:10px;
+}
+.Troop h3{
+	padding-left:20px;
+	padding-bottom:10px;
+	color:#fff;
+}
+.Troop p{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#7f7f7f;
+	font-size:14px;
+	padding-left:20px;
+	line-height:22px;
+}
+#footer{
+	margin:0px;
+	padding:0px;
+	height:150px;
+	background-color:#0f1010;
+}
+.footer-in{
+	width:943px;
+	height:150px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.footer-left{
+	width:290px;
+	height:40px;
+	float:left;
+	margin-top:36px;
+	margin-left:174px;
+}
+.footer-left ul li{
+	list-style:none;
+	font-size:14px;
+	color:#7f7f7d;
+	text-align:center;
+	line-height:25px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.footer-left ul li a{
+	color:#f00;
+}
+.footer-right{
+	width:180px;
+	height:26px;
+	float:right;
+	margin-top:49px;
+	margin-right:39px;
+}
+.footer-right ul li{
+	float:left;
+	list-style:none;
+}
+.footer-right ul li a img{
+	padding-right:10px;
+}
+

@@ -1,0 +1,282 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#top{
+	height:31px;
+	background-color:#eee;
+}
+.top-box{
+	width:965px;
+	height:31px;
+	margin:0 auto;
+}
+.top-left{
+	width:228px;
+	height:31px;
+	float:left;
+}
+.top-left a{
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+line-height:31px;
+text-decoration:none;
+color:#7d4444;
+margin-left:2px;
+}
+.top-right{
+	width:97px;
+	height:31px;
+	float:right;
+}
+.top-right a{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	line-height:31px;
+	text-decoration:none;
+	color:#0066d7;
+	margin-left:11px;
+}
+#header{
+	height:70px;
+	background-color:#0085c3;
+}
+.logonav{
+	width:965px;
+	height:70px;
+	margin:0 auto;
+}
+.logo{
+	display:block;
+	width:49px;
+	height:49px;
+	padding-top:11px;
+	float:left;
+}
+.nav{
+	width:419px;
+	height:49px;
+	float:left;
+	padding-top:11px;
+	margin-left:21px;
+
+}
+.nav ul li{
+	list-style:none;
+	float:left;
+	line-height:49px;
+	margin-left:10px;
+	margin-right:15px;
+	color:#fff;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:15px;
+}
+.search{
+	width:337px;
+	height:41px;
+	background-color:#444;
+	float:left;
+	margin-top:11px;
+	margin-left:139px;
+}
+.txt{
+	width:337px;
+	height:41px;
+	line-height:41px;
+}
+.btn{
+	width:68px;
+	height:33px;
+	background-color:#0085c3;
+	color:#fff;
+	position:relative;
+		top:-39px;
+		left:265px;
+
+}
+.banner{
+	height:380px;
+	margin-top:20px;
+}
+.pic{
+	width:930px;
+	height:380px;
+	margin:0 auto;
+	background-color: #777;
+}
+#main{
+	height:285px;
+	margin-top:32px;
+}
+.content{
+	width:930px;
+	height:284px;
+	margin:0 auto;
+}
+.box1{
+	width:300px;
+	height:284px;
+	float:left;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+	margin-right:13px;
+}
+.box1 h4{
+	margin-top:10px;
+	margin-bottom:13px;
+	margin-left:21px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.box1 ul li{
+	color:#000;
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	margin-top:6px;
+	margin-left:20px;
+	list-style-image:url(../images/sanjiao_09.gif);
+}
+.box2{
+	width:300px;
+	height:284px;
+	float:left;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	margin-right:13px;
+}
+.box2 h4{
+	margin-top:10px;
+	margin-bottom:13px;
+	margin-left:21px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.box2 ul li{
+	color:#000;
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	margin-top:6px;
+	margin-left:20px;
+	list-style-image:url(../images/sanjiao_09.gif);
+}
+.box3{
+	width:300px;
+	height:284px;
+	float:left;
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+}
+.box3 h4{
+	margin-top:10px;
+	margin-bottom:13px;
+	margin-left:21px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.box3 ul li{
+	color:#000;
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	margin-top:6px;
+	margin-left:20px;
+	list-style-image:url(../images/sanjiao_09.gif);
+}
+#footer{
+	height:340px;
+	background-color:#0085c3;
+	margin-top:8px;
+}
+.list{
+	width:980px;
+	height:176px;
+	margin:0 auto;
+	padding-top:23px;
+}
+.list1{
+	width:128px;
+	height:176px;
+	float:left;
+}
+.list1 ul li{
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:10px;
+}
+.list div{
+	margin-left:10px;
+	margin-right:58px;
+}
+.list2{
+	width:128px;
+	height:176px;
+	float:left;
+}
+.list2 ul li{
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:10px;
+}
+.list3{
+	width:128px;
+	height:176px;
+	float:left;
+}
+.list3 ul li{
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:10px;
+}
+.list4{
+	width:128px;
+	height:176px;
+	float:left;
+}
+.list4 ul li{
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:10px;
+}
+.list5{
+	width:128px;
+	height:176px;
+	float:left;
+}
+.list5 ul li{
+	list-style:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:10px;
+}
+span{
+	color:#fff;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:12px;
+}
+.cop{
+	width:560px;
+	height:90px;
+	margin:0 auto;
+	margin-top:51px;
+}
+.cop ul li{
+	list-style:none;
+}
+.cop li a{
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#fff;
+	margin-top:18px;
+}

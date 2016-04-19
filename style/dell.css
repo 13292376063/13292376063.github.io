@@ -1,0 +1,239 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#top{
+	width:930px;
+	height:102px;
+	margin:0 auto;
+}
+.logo{
+	width:107px;
+	height:77px;
+	padding-top:8px;
+	margin-left:2px;
+	float:left;
+}
+.nav{
+	width: 487px;
+	height: 56px;
+	float:left;	
+	margin-left:14px;
+}
+.nav li{
+	list-style:none;
+	float:left;
+	margin-top:40px;
+	margin-left:35px;
+	font-family:Georgia, "Times New Roman",
+			Times, serif;
+	font-size:13px;
+	background-image:url("../images/navsanjiao_08.gif");
+	background-repeat:no-repeat;
+	background-position:right;
+	padding-right:13px;
+}
+.list span{
+	display:block;
+}
+.search{
+	width:320px;
+	height:102px;
+	float:left;
+}
+.search ul li{
+	list-style:none;
+	margin-top:5px;
+	padding-bottom:12px;
+	text-align:right;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+.search ul li a{
+	text-decoration:none;
+	text-align:left;
+		font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+#banner{
+	width:930px;
+	height:380px;
+	background-color:#00f;
+	margin:0 auto;
+}
+#main{
+	width:932px;
+	height:554px;
+	background-color:#fff;
+	margin:0 auto;
+}
+ 
+.content{
+	width:932px;
+	height:285px;
+	margin-top:23px;
+}
+.content .left{
+	width:300px;
+	height:283px;
+	border:1px solid #cacaca;
+	float:left;
+	margin-right:13px;
+}
+.content h5{
+	margin-top:11px;
+	margin-bottom:11px;
+	margin-left:21px;
+}
+.content .left ul li{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-top:13px;
+	margin-left:30px;
+	list-style-image:url("../images/liebiaosanjiao_23.gif");
+}
+.content .left ul li span{
+	font-weight:bold;
+}
+.content .center{
+	width:300px;
+	height:283px;
+	background-color:#fff;
+	border:1px solid #cacaca;
+	float:left;
+	margin-right:13px;
+}
+.content .center ul li{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-top:6px;
+	margin-left:30px;
+	list-style-image:url("../images/liebiaosanjiao_23.gif");
+}
+.content .right{
+	width:300px;
+	height:283px;
+	background-color:#fff;
+	border:1px solid #cacaca;
+	float:left;
+}
+
+.content .right ul li{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-top:6px;
+	margin-left:30px;
+	list-style-image:url("../images/liebiaosanjiao_23.gif");
+}
+.content .right div img{
+	display:block;
+	margin-top:15px;
+	margin-bottom:13px;
+	margin-left:20px;
+
+}
+.main-mid .left{
+	width:213px;
+	height:20px;
+	background-color: #444;
+	float:left;
+	margin-top:13px;
+	margin-left:2px;
+}
+.main-mid .right{
+	width:59px;
+	height:16px;
+	background-color: #444;
+	float:right;
+	margin-top:15px;
+	margin-left:7px;
+}
+.main-bottom{
+	width:930px;
+	height:220px;
+	background-color:#f7f7f7;
+	border:1px solid #0066d7;
+	margin-top:47px;
+}
+.list1 h4{
+	margin-top:3px;
+	margin-left:5px;
+}
+ul li{
+	list-style:none;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-left:8px;
+	margin-top:5px;
+	list-style-image:url("../images/liebiaosanjiao_23.gif");
+}
+ .list1{
+	width:138px;
+	height:190px;
+	margin-top:21px;
+	margin-left:12px;
+	margin-right:43px;
+	float:left;
+}
+.list2{
+	width:138px;
+	height:190px;
+	margin-top:21px;
+	margin-right:43px;
+	float:left;
+}
+.list2 h4{
+	margin-top:3px;
+	margin-left:5px;
+}
+.list3{
+	width:138px;
+	height:190px;
+	margin-top:21px;
+	margin-right:43px;
+	float:left;
+}
+.list3 h4{
+	margin-top:3px;
+	margin-left:5px;
+}
+.list4{
+	width:138px;
+	height:190px;
+	margin-top:21px;
+	margin-right:43px;
+	float:left;
+}
+.list4 h4{
+	margin-top:3px;
+	margin-left:5px;
+	font-size:13px;
+}
+.list5{
+	width:138px;
+	height:190px;
+	margin-top:21px;
+	margin-right:43px;
+	float:left;
+}
+.list5 h4{
+	margin-top:3px;
+	margin-left:5px;
+	font-size:13px;
+}
+#footer{
+	width:932px;
+	height:132px;
+	background-color:#fff;
+	margin:0 auto;
+}
+#footer a{
+	display:block;
+	padding-top:10px;
+	text-align:center;
+	text-decoration:none;
+	font-size:12px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+
+}
